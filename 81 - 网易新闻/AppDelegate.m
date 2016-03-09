@@ -6,6 +6,8 @@
 //  Copyright (c) 2015年 ShangxianDante. All rights reserved.
 //
 
+//这个项目是copy别人的，用来自己的学习研究
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
